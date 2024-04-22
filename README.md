@@ -1,6 +1,8 @@
 # NNZ
 Predicting redshifts of galaxies using neural networks! 
 
+The photo-z_MLP notebook trains a Multi-Layer Perception neural network model on SDSS DR8 data to predict photometric redshifts. 
+
 Want to run photo-z_MLP? Here's what you need to do!
 1. Download the data required for photo-z_MLP from Zenodo: https://zenodo.org/records/11040878
 2. Change the data_dir variable in common.py to the directory where the data is located.
