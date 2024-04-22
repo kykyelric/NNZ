@@ -19,8 +19,8 @@ from PIL import Image
 from astropy.io import fits
 from colossus.cosmology import cosmology
 
-from routines import common as cmn
-from routines import obs_utils
+import common as cmn
+import obs_utils
 
 ###################################################################################################
 
