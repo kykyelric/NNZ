@@ -1,0 +1,18 @@
+name: nn
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - python=3.8
+  - astropy
+  - ipykernel
+  - ipython
+  - jupyter
+  - jupyter_nbextensions_configurator
+  - matplotlib
+  - mkl < 2022
+
+
+  
