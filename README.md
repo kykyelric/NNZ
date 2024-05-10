@@ -17,4 +17,4 @@ Want to run spec-z_CNN? Here's what you need to do!
 
 Contributions:
 common.py, obs_utils.py, and sdss_utils.py were created by Benedikt Diemer (https://github.com/benediktdiemer). 
-photo-z_MLP.ipynb and this README file were created by Kylie Yui Dan (https://github.com/kykyelric). 
+All other files were created by Kylie Yui Dan (https://github.com/kykyelric). 
